@@ -1,0 +1,17 @@
+<DOCTYPE html>
+<html>
+  <head>
+    <h1 id=My-Name>
+    Austin Taylor Bartram
+    </h1>
+     </head>
+    <h2 id=title>
+    Objective
+    </h2>
+    <p>
+    Pursuing an entry into the GCU Java Coding Bootcamp
+    to gain a career in Java coding-programing and ultimately building a 
+    grounded first foot forward into programing-coding in general
+    </p>
+ 
+</html>
